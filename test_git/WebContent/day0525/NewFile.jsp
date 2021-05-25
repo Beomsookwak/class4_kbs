@@ -26,6 +26,7 @@
 <body>
 <div>
 <a href="http://sist.co.kr">링크</a>
+<a href="">새로운기능추가</a>
 </div>
 </body>
 </html>
